@@ -12,6 +12,10 @@ The dataset used in this project is sourced from :
 - `Book1.csv`: Raw dataset.
 - `arun.ipynb`: Jupyter notebook containing EDA analysis.
 - `README.md`: Overview and instructions.
+- 'C6_new.pptx' : Power Point Presentation file. 
+
+## Portfolio for this project - 
+- For more details for this project you can visit - [Arun's Portfolio](https://sites.google.com/view/aruneda/home?authuser=0)
 
 ## Technologies (Lbraries) Used 
 - Python
